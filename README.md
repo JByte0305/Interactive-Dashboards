@@ -1,6 +1,6 @@
 # Interactive Financial Dashboards
 
-This repository showcases dashboards built as part of the Simandhar CAAP (Certified AI Accounting Professional) Course using LLMs Excel, Power BI, and Tableau to analyze financial performance and business insights.
+This repository showcases dashboards built as part of the Simandhar CAAP (Certified AI Accounting Professional) Course using LLMs, Excel, Power BI, and Tableau to analyze financial performance and business insights.
 
 ## Tools Used
 - Microsoft Excel
